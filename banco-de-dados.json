@@ -1,0 +1,601 @@
+{
+  "questionario": [],
+  "ofertas": [
+    {
+      "id": 1,
+      "categoria": "restaurante",
+      "titulo": "Super Burger",
+      "descricao_oferta": "Rodízio de Mini-hambúrger com opção de entrada.",
+      "anunciante": "Original Burger",
+      "valor": 29.9,
+      "destaque": true,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/1/img1.jpg"
+        },
+        {
+          "url": "/assets/ofertas/1/img2.jpg"
+        },
+        {
+          "url": "/assets/ofertas/1/img3.jpg"
+        },
+        {
+          "url": "/assets/ofertas/1/img4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoria": "restaurante",
+      "titulo": "Cozinha Mexicana",
+      "descricao_oferta": "Almoço ou Jantar com Rodízio Mexicano delicioso.",
+      "anunciante": "Mexicana",
+      "valor": 32.9,
+      "destaque": true,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/2/img1.jpg"
+        },
+        {
+          "url": "/assets/ofertas/2/img2.jpg"
+        },
+        {
+          "url": "/assets/ofertas/2/img3.jpg"
+        },
+        {
+          "url": "/assets/ofertas/2/img4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "categoria": "restaurante",
+      "titulo": "Pizzas Grandes",
+      "descricao_oferta": "Pizza Grande, Mussarela, Marguerita ou outras!",
+      "anunciante": "Nossa Pizza",
+      "valor": 21.9,
+      "destaque": false,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/3/img1.jpg"
+        },
+        {
+          "url": "/assets/ofertas/3/img2.jpg"
+        },
+        {
+          "url": "/assets/ofertas/3/img3.jpg"
+        },
+        {
+          "url": "/assets/ofertas/3/img4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "categoria": "diversao",
+      "titulo": "Estância das águas",
+      "descricao_oferta": "Diversão garantida com piscinas, trilhas e muito mais.",
+      "anunciante": "Estância das águas",
+      "valor": 31.9,
+      "destaque": true,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/4/img1.jpg"
+        },
+        {
+          "url": "/assets/ofertas/4/img2.jpg"
+        },
+        {
+          "url": "/assets/ofertas/4/img3.jpg"
+        },
+        {
+          "url": "/assets/ofertas/4/img4.jpg"
+        },
+        {
+          "url": "/assets/ofertas/4/img5.jpg"
+        },
+        {
+          "url": "/assets/ofertas/4/img6.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "categoria": "diversao",
+      "titulo": "Kart",
+      "descricao_oferta": "Bateria de Kart de 30 minutos.",
+      "anunciante": "Speed Kart",
+      "valor": 54.9,
+      "destaque": false,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/5/img1.jpg"
+        },
+        {
+          "url": "/assets/ofertas/5/img2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "categoria": "diversao",
+      "titulo": "Academia de tiro",
+      "descricao_oferta": "Sessão de tiro dinâmico com Instrutor, Estande, Alvo e Equipamentos.",
+      "anunciante": "Academia de Tiro",
+      "valor": 89.9,
+      "destaque": false,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/6/img1.jpg"
+        },
+        {
+          "url": "/assets/ofertas/6/img2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7
+    }
+  ],
+  "como-usar": [
+    {
+      "id": 1,
+      "descricao": "Não é necessário agendar"
+    },
+    {
+      "id": 2,
+      "descricao": "Válido de segunda a quinta das 12h as 23h"
+    },
+    {
+      "id": 3,
+      "descricao": "Não é necessário agendar"
+    },
+    {
+      "id": 4,
+      "descricao": "Necessário agendar com no mínimo 48 horas de antecedência"
+    },
+    {
+      "id": 5,
+      "descricao": "Válido de segunda a sábado das 12h as 23h. Necessário agendamento prévio"
+    },
+    {
+      "id": 6,
+      "descricao": "Não é necessário agendar. Sujeito à fila."
+    }
+  ],
+  "onde-fica": [
+    {
+      "id": 1,
+      "descricao": "Avenida João da Silva, 255, São Paulo - SP"
+    },
+    {
+      "id": 2,
+      "descricao": "Rua Francisco Mendes, 1000, Rio de Janeiro - SP "
+    },
+    {
+      "id": 3,
+      "descricao": "Avenida Lúcio Rodrigues Alves, 33, Fortaleza - CE"
+    },
+    {
+      "id": 4,
+      "descricao": "Avenida José de Oliveira, 550, Campo Grande - MS"
+    },
+    {
+      "id": 5,
+      "descricao": "Avenida Júlia Abrão, 77, São Paulo - SP"
+    },
+    {
+      "id": 6,
+      "descricao": "Estrada Maria das Graças, 12, Salvador - BA "
+    }
+  ],
+  "pedidos": [
+    {
+      "endereco": "fdsafdsf",
+      "numero": "fdsafd",
+      "complemento": "sfasdf",
+      "formaPagamento": "debito",
+      "id": 1
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 24
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 25
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 26
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 27
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 28
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 29
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 30
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 31
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 32
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 33
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 34
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 35
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 36
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 37
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 38
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 39
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 40
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 41
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 42
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 43
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "2",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 44
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "fds",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 45
+    },
+    {
+      "endereco": "Rua 13 de Setembro",
+      "numero": "3232",
+      "complemento": "cccc",
+      "formaPagamento": "dinheiro",
+      "id": 46
+    },
+    {
+      "endereco": "fdsf",
+      "numero": "f",
+      "complemento": null,
+      "formaPagamento": "debito",
+      "id": 47
+    },
+    {
+      "endereco": "fdsf",
+      "numero": "f",
+      "complemento": null,
+      "formaPagamento": "debito",
+      "id": 48
+    },
+    {
+      "endereco": "fdsf",
+      "numero": "f",
+      "complemento": null,
+      "formaPagamento": "debito",
+      "id": 49
+    },
+    {
+      "endereco": "fdsf",
+      "numero": "f",
+      "complemento": null,
+      "formaPagamento": "debito",
+      "id": 50
+    },
+    {
+      "endereco": "fdsf",
+      "numero": "f",
+      "complemento": null,
+      "formaPagamento": "debito",
+      "id": 51
+    },
+    {
+      "endereco": "fdsf",
+      "numero": "f",
+      "complemento": null,
+      "formaPagamento": "debito",
+      "id": 52
+    },
+    {
+      "endereco": "fdsf",
+      "numero": "f",
+      "complemento": null,
+      "formaPagamento": "debito",
+      "id": 53
+    },
+    {
+      "endereco": "fdsf",
+      "numero": "f",
+      "complemento": null,
+      "formaPagamento": "debito",
+      "id": 54
+    },
+    {
+      "endereco": "fdsf",
+      "numero": "f",
+      "complemento": null,
+      "formaPagamento": "debito",
+      "id": 55
+    },
+    {
+      "endereco": "fdsf",
+      "numero": "f",
+      "complemento": null,
+      "formaPagamento": "debito",
+      "id": 56
+    },
+    {
+      "endereco": "endereco",
+      "numero": "01",
+      "complemento": "complemento",
+      "formaPagamento": "debito",
+      "id": 57
+    },
+    {
+      "endereco": "fdsfa",
+      "numero": "fdsfd",
+      "complemento": null,
+      "formaPagamento": "debito",
+      "id": 58
+    },
+    {
+      "endereco": "fdsfd",
+      "numero": "fdfdfd",
+      "complemento": null,
+      "formaPagamento": "dinheiro",
+      "id": 59
+    },
+    {
+      "endereco": "fdsfd",
+      "numero": "fdfd",
+      "complemento": "fdfd",
+      "formaPagamento": "dinheiro",
+      "id": 60
+    },
+    {
+      "endereco": "asa nrs",
+      "numero": "1",
+      "complemento": "ttk",
+      "formaPagamento": "dinheiro",
+      "id": 61
+    },
+    {
+      "endereco": "fdfsd",
+      "numero": "fdf",
+      "complemento": null,
+      "formaPagamento": "debito",
+      "id": 62
+    },
+    {
+      "endereco": "fdfsdf",
+      "numero": "dfsdfd",
+      "complemento": "sfdsf",
+      "formaPagamento": "debito",
+      "id": 63
+    },
+    {
+      "endereco": "fdsafd",
+      "numero": "afdsf",
+      "complemento": "dsafdsfdaf",
+      "formaPagamento": "dinheiro",
+      "id": 64
+    },
+    {
+      "endereco": "gfdg",
+      "numero": "gf",
+      "complemento": null,
+      "formaPagamento": "dinheiro",
+      "id": 65
+    },
+    {
+      "endereco": "fdsfadf",
+      "numero": "dsafds",
+      "complemento": "fd",
+      "formaPagamento": "dinheiro",
+      "itens": [
+        {
+          "id": 4,
+          "img": {
+            "url": "/assets/ofertas/4/img1.jpg"
+          },
+          "titulo": "Estância das águas",
+          "descricao_oferta": "Diversão garantida com piscinas, trilhas e muito mais.",
+          "valor": 31.9,
+          "quantidade": 2
+        }
+      ],
+      "id": 66
+    },
+    {
+      "endereco": "endereço",
+      "numero": "01",
+      "complemento": null,
+      "formaPagamento": "debito",
+      "itens": [
+        {
+          "id": 4,
+          "img": {
+            "url": "/assets/ofertas/4/img1.jpg"
+          },
+          "titulo": "Estância das águas",
+          "descricao_oferta": "Diversão garantida com piscinas, trilhas e muito mais.",
+          "valor": 31.9,
+          "quantidade": 3
+        },
+        {
+          "id": 1,
+          "img": {
+            "url": "/assets/ofertas/1/img1.jpg"
+          },
+          "titulo": "Super Burger",
+          "descricao_oferta": "Rodízio de Mini-hambúrger com opção de entrada.",
+          "valor": 29.9,
+          "quantidade": 1
+        }
+      ],
+      "id": 67
+    },
+    {
+      "endereco": "fdsa",
+      "numero": "33",
+      "complemento": "fds",
+      "formaPagamento": "dinheiro",
+      "itens": [
+        {
+          "id": 4,
+          "img": {
+            "url": "/assets/ofertas/4/img1.jpg"
+          },
+          "titulo": "Estância das águas",
+          "descricao_oferta": "Diversão garantida com piscinas, trilhas e muito mais.",
+          "valor": 31.9,
+          "quantidade": 5
+        },
+        {
+          "id": 1,
+          "img": {
+            "url": "/assets/ofertas/1/img1.jpg"
+          },
+          "titulo": "Super Burger",
+          "descricao_oferta": "Rodízio de Mini-hambúrger com opção de entrada.",
+          "valor": 29.9,
+          "quantidade": 2
+        },
+        {
+          "id": 2,
+          "img": {
+            "url": "/assets/ofertas/2/img1.jpg"
+          },
+          "titulo": "Cozinha Mexicana",
+          "descricao_oferta": "Almoço ou Jantar com Rodízio Mexicano delicioso.",
+          "valor": 32.9,
+          "quantidade": 1
+        }
+      ],
+      "id": 68
+    },
+    {
+      "endereco": "fdsfa",
+      "numero": "dfsdfa",
+      "complemento": "sdfasd",
+      "formaPagamento": "debito",
+      "itens": [
+        {
+          "id": 1,
+          "img": {
+            "url": "/assets/ofertas/1/img1.jpg"
+          },
+          "titulo": "Super Burger",
+          "descricao_oferta": "Rodízio de Mini-hambúrger com opção de entrada.",
+          "valor": 29.9,
+          "quantidade": 3
+        }
+      ],
+      "id": 69
+    }
+  ]
+}
